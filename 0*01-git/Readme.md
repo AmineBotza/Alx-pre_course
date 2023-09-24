@@ -1,4 +1,1 @@
-# Welcome to 0x01-git
-
-This is a sample README.md file for the 0x01-git directory.
-Feel free to add more content here.
+This is another file in readme
